@@ -1,4 +1,4 @@
-import { connect } from "cloudflare:sockets";
+// import { connect } from "cloudflare:sockets";
 const GLOBAL_TRAFFIC_CACHE = new Map();
 const ACTIVE_CONNECTIONS_COUNT = new Map();
 const GLOBAL_LAST_ACTIVE_WRITE = new Map();
